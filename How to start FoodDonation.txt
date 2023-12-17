@@ -1,0 +1,15 @@
+go to vs code -> file -> open folder -> select project 1 from desktop
+
+open terminal -> cd command to fooddonation (cd fooddonation)
+		cd src -> npm start (npm is a module) -> if node modules not install use command npm install. when we use npm start it started our website.
+
+	step two -> start new terminal using + sign on right side of screen.
+	step 3 -> now go to cd fooddonation ->cd src -> using command cd "nodeserver" .
+	step 4 -> start the server using command node index.js .
+	step 5 ->  open new terminal -> cd fooddonation -> cd src ->  cd "node server" -> now we started donation server.  node donation-server.js
+	
+step 6 -> now we open new terminal and go to cd crud -> cd src -> npm start (your crud operation is started now. you can see the data of user who signup and you can change the data update and delete basically a CRUD operation). 
+
+step 7 -> now you can go to mongodb and connect. you ca see the database aditya and in that you can see the donation database which we fill in our website.
+
+step 8 -> same for signup you can see signup data in your database signup.
