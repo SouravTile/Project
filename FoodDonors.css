@@ -1,0 +1,19 @@
+/* FoodDonors.css */
+
+.scrolling-row {
+    display: flex;
+    overflow: hidden;
+    width: fit-content;
+    white-space: nowrap;
+    animation: scroll 15s linear infinite; /* Adjust the duration based on your preference */
+  }
+  
+  @keyframes scroll {
+    0% {
+      transform: translateX(0%);
+    }
+    100% {
+      transform: translateX(-30%); /* Adjust the percentage based on the number of images */
+    }
+  }
+  
