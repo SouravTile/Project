@@ -28,7 +28,6 @@ const About = () => {
       <p style={{ fontSize: '2em' }}>
       Shubham Rathee, a student at CDAC Mumbai, has made noteworthy contributions to this website.Shubham Rathee's input has undoubtedly played a positive role in the development and improvement of this website. </p>
 
-
       {/* Cards at the end */}
       <div className="row text-center d-flex justify-content-center">
   <div className="col-md-3 mt-4">
