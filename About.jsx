@@ -5,7 +5,6 @@ import Aditya from "../src/images/Aditya.jpg";
 import Chaitanya from "../src/images/Chaitanya.jpg";
 import Shubham from "../src/images/Shubham.jpg";
 
-
 const About = () => {
   return (
     <div style={{ maxWidth: '1200px', margin: '0 auto' }}>
