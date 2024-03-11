@@ -2,7 +2,7 @@ import React from 'react';
 import { Card } from 'react-bootstrap';
 import foodDonorsImage from '../src/images/A1.png';
 import Aditya from "../src/images/Aditya.jpg";
-import Chaitanya from "../src/images/Chaitanya.jpg";
+import Chaitanya from "/src/images/Chaitanya.jpg";
 import Shubham from "../src/images/Shubham.jpg";
 
 const About = () => {
