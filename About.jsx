@@ -2,7 +2,7 @@ import React from 'react';
 import { Card } from 'react-bootstrap';
 import foodDonorsImage from '../src/images/A1.png';
 import Aditya from "../src/images/Aditya.jpg";
-import Chaitanya from "../src/images/Chaitanya.jpg";
+import Sourav from "../src/images/Sourav.jpg";
 import Shubham from "../src/images/Shubham.jpg";
 
 const About = () => {
@@ -24,7 +24,7 @@ const About = () => {
       <p style={{ fontSize: '2em' }}>
       Aditya Tile, a dedicated student at CDAC Mumbai, has made an invaluable contribution to this website through his exceptional skills and commitment. His passion for learning and innovative approach to problem-solving have significantly enriched the platform, leaving a lasting impact on its development.      </p>
       <p style={{ fontSize: '2em' }}>
-      Chaitanya Mirage, a dedicated student at CDAC Mumbai, has played a pivotal role in shaping certain aspects of this website through his valuable contributions. His commitment to excellence and enthusiasm for web development have left a positive imprint on the platform.       </p>
+      Sourav Tile, a dedicated student at CDAC Mumbai, has played a pivotal role in shaping certain aspects of this website through his valuable contributions. His commitment to excellence and enthusiasm for web development have left a positive imprint on the platform.       </p>
       <p style={{ fontSize: '2em' }}>
       Shubham Rathee, a student at CDAC Mumbai, has made noteworthy contributions to this website.Shubham Rathee's input has undoubtedly played a positive role in the development and improvement of this website. </p>
 
@@ -48,9 +48,9 @@ const About = () => {
   </div>
   <div className="col-md-3 mt-4 ">
     <Card>
-      <Card.Img variant="top" src={Chaitanya} />
+      <Card.Img variant="top" src={Sourav} />
       <Card.Body>
-        <Card.Title>Chaitanya Mirage</Card.Title>
+        <Card.Title>Sourav Tile</Card.Title>
       </Card.Body>
     </Card>
   </div>
